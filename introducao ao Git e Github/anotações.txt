@@ -1,0 +1,18 @@
+Git:
+Git é um "sistema" muito usado para controle de versão, compartilhar arquivos de forma mais fácil, ou seja, gerenciar o código fonte de uma aplicação de forma mais efetiva.
+
+
+Principais comandos:
+git init (iniciar o monitoramento com Git)
+git commit (enviar commit)
+git checkout (alternar entre versões de arquivos, commits ou branches)
+git branch (cria ramificações)
+git merge (mescla ramificações)
+git pull (atualiza conteúdo local, baixando de um repositório online)
+git push (atualiza o conteúdo online, a partir de um repositório local)
+git config: --global user.name (cria um usuário)
+            --global user.email (atribui um e-mail ao usuario)
+git status (verifica status)        
+git rm (remover arquivos e pastas)
+git log (verifica log do git
+git reset HEAD nome_do_arquivo (dezfaz alteração de arquivos adicionados na staged area)
